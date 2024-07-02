@@ -1,4 +1,4 @@
-# Compression_and_String-Matching_Algorithms
+# Compression and String-Matching Algorithms
 
 Developped for an assignment on string searching and compression algorithms, this repository contains the implementation of the Boyer-More, Huffman, KMP, and Lemple-Ziv algorithms. 
 
